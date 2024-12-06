@@ -330,7 +330,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Think+Tink Kuching 360° VR Tour - 2024",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
